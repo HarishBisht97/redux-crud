@@ -1,3 +1,9 @@
+UI : 
+![image](https://github.com/HarishBisht97/redux-crud/assets/143319985/ad8490a1-ae1d-4334-81d2-a96bd279881e)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
